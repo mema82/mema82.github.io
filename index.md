@@ -1,9 +1,10 @@
 ---
+layout: default
 ---
 
 # Welcome to my IRON YARD experience!
 
-Here I am describing how I want my index page to look. All this will be done in Markkdown.... unfortunatly. 
+Here I am describing how I want my index page to look. All this will be done in Markkdown.
 
 ##My Blog posts
 
