@@ -8,11 +8,11 @@ Here I am describing how I want my index page to look. All this will be done in 
 
 ## My Blog posts
 
-* [My first post title] (2014/09/22/Day-1.html)
+* [My first post title](2014/09/22/Day-1.html)
 
-* [My second  post title] (2014/09/23/Day-2.html)
+* [My second  post title](2014/09/23/Day-2.html)
 
-* [My third  post title] (2014/09/24/Day-3.html)
+* [My third  post title](2014/09/24/Day-3.html)
 
 ## Repos I currently own
 
