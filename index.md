@@ -4,7 +4,8 @@ layout: default
 
 ### Welcome to my IRON YARD experience!
 
-Here I am describing how I want my index page to look. All this will be done in Markkdown.
+My name is Melissa Malpica and I am a student at The IRON YARD-Orlando. You can read about my journey to becoming a Front End Developer
+and all my "tips" for future students of The IRON YARD.
 
 ## My Blog posts
 
