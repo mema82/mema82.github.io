@@ -16,5 +16,5 @@ Here I am describing how I want my index page to look. All this will be done in 
 
 ## Repos I currently own
 
-* [3D engine] (http://github.com/mema82/engine)
+* [3D Engine] (http://github.com/mema82/engine)
 * [The Iron Yard] (http://github.com/mema82/FEE--2014--FALL)
