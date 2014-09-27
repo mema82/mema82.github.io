@@ -14,6 +14,10 @@ Here I am describing how I want my index page to look. All this will be done in 
 
 * [My third  post title] (2014/09/24/Day-3.html)
 
+* [My fourth  post title] (2014/09/25/Day-4.html)
+
+
+
 ## Repos I currently own
 
 * [3D Engine] (https://github.com/mema82/engine)
