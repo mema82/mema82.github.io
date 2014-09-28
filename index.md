@@ -26,3 +26,5 @@ and all my "tips" for future students of The IRON YARD.
 
 * [3D Engine](https://github.com/mema82/engine)
 * [The Iron Yard](http://github.com/mema82/FEE--2014--FALL)
+* [My Sandbox for testing code](https://github.com/mema82/sandbox)
+* [My personal Github page](https://github.com/mema82/mema82.github.io)
