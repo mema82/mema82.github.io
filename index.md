@@ -9,16 +9,15 @@ and all my "tips" for future students of The IRON YARD.
 
 ## My Blog posts
 
-* [My first post title](2014/09/22/Day-1.html)
+* [First Week at The Iron Yard](2014/09/22/Day-1.html)
 
-* [My second  post title](2014/09/23/Day-2.html)
+* [This is your brain….This is your brain on Javascript](2014/09/23/Day-2.html)
 
-* [My third  post title](2014/09/24/Day-3.html)
+* [ I see the light!….well, maybe](2014/09/24/Day-3.html)
 
-* [My fourth  post title](2014/09/25/Day-4.html)
+* ["The little programmer that could”](2014/09/25/Day-4.html)
 
-* [My fifth post title](2014/09/26/Day-5.html) 
-
+* [Week 5 to come](2014/09/26/Day-5.html) 
 
 
 
