@@ -11,13 +11,15 @@ and all my "tips" for future students of The IRON YARD.
 
 * [First Week at The Iron Yard](2014/09/22/Day-1.html)
 
-* [This is your brain….This is your brain on Javascript](2014/09/23/Day-2.html)
+* [This is your brain….This is your brain on Javascript](2014/09/29/Day-2.html)
 
-* [ I see the light!….well, maybe](2014/09/24/Day-3.html)
+* [ I see the light!….well, maybe](2014/10/06/Day-3.html)
 
-* ["The little programmer that could”](2014/09/25/Day-4.html)
+* ["The little programmer that could”](2014/10/13/Day-4.html)
 
-* [Week 5 to come](2014/09/26/Day-5.html) 
+* ["Week 5 to come"](2014/10/20/Day-5.html)
+
+
 
 
 
