@@ -17,7 +17,7 @@ and all my "tips" for future students of The IRON YARD.
 
 * ["The little programmer that could”](2014/10/13/Day-4.html)
 
-* ["Week 5 to come..."](2014/10/20/Day-5.html)
+* ["It’s so Purdy"](2014/10/20/Day-5.html)
 
 
 
