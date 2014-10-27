@@ -5,7 +5,7 @@ layout: default
 ### Welcome to my IRON YARD experience!
 
 My name is Melissa Malpica and I am a student at The IRON YARD-Orlando. You can read about my journey to becoming a Front End Developer
-and all my "tips" for future students of The IRON YARD.
+and all my "tips" for future students of The IRON YARD..
 
 ## My Blog posts
 
@@ -17,8 +17,9 @@ and all my "tips" for future students of The IRON YARD.
 
 * ["The little programmer that could”](2014/10/13/Day-4.html)
 
-* ["It’s so Purdy"](2014/10/20/Day-5.html)
+* ["It's so Purdy"](2014/10/20/Day-5.html)
 
+* ["Week 6 to come..."](2014/10/20/Day-6.html)
 
 
 
