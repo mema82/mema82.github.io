@@ -22,7 +22,6 @@ and all my "tips" for future students of The IRON YARD.
 
 
 
-
 ## Repos I currently own
 
 * [3D Engine](https://github.com/mema82/engine)
