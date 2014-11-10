@@ -19,7 +19,10 @@ and all my "tips" for future students of The IRON YARD..
 
 * ["It's so Purdy"](2014/10/20/Day-5.html)
 
-* ["Week 6 to come..."](2014/10/20/Day-6.html)
+* ["The A Team"](2014/10/27/Day-6.html)
+
+* ["Week 7 to come..."](2014/10/20/Day-6.html)
+
 
 
 
